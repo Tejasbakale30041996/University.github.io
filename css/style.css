@@ -136,7 +136,7 @@ body {
 
 .welcome-main {
 
-    background: url(../../img/hero-01-free-img.jpg) no-repeat;
+    background: url(../img/hero-01-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-top: 100px;
@@ -256,7 +256,7 @@ body {
 
 .why-main {
 
-    background: url(../../img/gallery-08-free-img.jpg) no-repeat;
+    background: url(../img/gallery-08-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     padding-top: 100px;
@@ -639,7 +639,7 @@ body {
 
 .abt-about {
 
-    background: url(../../img/background-02-free-img.jpg) no-repeat;
+    background: url(../img/background-02-free-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-top: 100px;
@@ -793,7 +793,7 @@ body {
 
 .abt-our-main {
 
-    background: url(../../img/background-01-free-img.jpg) no-repeat;
+    background: url(../img/background-01-free-img.jpg) no-repeat;
     background-size: cover;
     background-attachment: fixed;
     margin-top: 100px;
@@ -1067,7 +1067,7 @@ body {
 
 .course-main {
 
-    background: url(../../img/background-03-free-img.jpg) no-repeat;
+    background: url(../img/background-03-free-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-top: 100px;
@@ -1240,7 +1240,7 @@ body {
 
 .teacher-main {
 
-    background: url(../../img/background-04-free-img.jpg) no-repeat;
+    background: url(../img/background-04-free-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-top: 100px;
@@ -1423,7 +1423,7 @@ body {
 
 .gallary-main {
 
-    background: url(../../img/background-05-free-img.jpg) no-repeat;
+    background: url(../img/background-05-free-img.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     padding-top: 100px;
